@@ -21,6 +21,7 @@ module.exports = {
         'installation/cron',
         'installation/importing',
         'installation/updating',
+        'installation/docker',
         'installation/issues',
       ]
     },
@@ -82,9 +83,8 @@ module.exports = {
         'acars/install-server',
         'acars/user-guide',
         'acars/customization',
-        'acars/configmaps',
-        // 'acars/packaging',
-        // 'acars/rules',
+        'acars/aircraftconfigs',
+        'acars/rules',
       ]
     },
     'help',
